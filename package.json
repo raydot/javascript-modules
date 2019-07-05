@@ -1,0 +1,27 @@
+{
+  "name": "javascript-modules",
+  "version": "1.0.0",
+  "description": "See README for details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydot/javascript-modules.git"
+  },
+  "keywords": [
+    "javascript",
+    "http",
+    "modules"
+  ],
+  "author": "Dave Kanter",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/raydot/javascript-modules/issues"
+  },
+  "homepage": "https://github.com/raydot/javascript-modules#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
